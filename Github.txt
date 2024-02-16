@@ -1,0 +1,71 @@
+ReactJs create spa application 
+
+SPA full form singl page application
+
+public/index.html
+   <div id="root">
+     your element
+   </div>
+
+npm start
+  1 react-script start
+    src/index.js
+       which file to render/view/show i.e index.html
+       where to load inside index.html
+
+ 2.public/index.html
+    <div id="root">
+     your element loads here...
+   </div>
+
+DOM access 2 types in js
+
+1.document.getelementbyid('');
+2.document.queryselector('');
+
+reactjs is nothing but a nodejs
+
+types of address
+1.relative address ./
+2.absolute address c:/home/
+
+nested components
+
+a
+ b
+  c
+   d
+
+gitHub directory
+
+sumukh.s93@gmail.com
+username/pwd: Sumuk1993/Sumuk@1993
+
+steps for Create repository
+
+Create repository button-->
+Repository name & Description (optional):- Play-->
+select Public/Private-->
+check Add a README file checkbox-->
+click on Create repository button
+
+Push your commit to gitHub type this command in VSCode
+
+1st
+PS D:\Zip files\ReactJs\React\proj3> git init
+PS D:\Zip files\ReactJs\React\proj3> git remote add origin https://github.com/Sumuk1993/Play.git
+PS D:\Zip files\ReactJs\React\proj3> git add .
+PS D:\Zip files\ReactJs\React\proj3> git commit -m "v1"
+PS D:\Zip files\ReactJs\React\proj3> git push origin master
+
+2nd time
+
+Save in react proj1
+PS D:\Zip files\ReactJs\React\proj3> git add .
+PS D:\Zip files\ReactJs\React\proj3> git commit -m "Added Instruction file"
+PS D:\Zip files\ReactJs\React\proj3> git push origin master
+PS D:\Zip files\ReactJs\React\proj3> cls
+
+
+
+
